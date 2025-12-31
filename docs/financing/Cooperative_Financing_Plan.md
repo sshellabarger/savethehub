@@ -94,7 +94,7 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 
 **Student Members:**
 - Monthly dues: $25
-- Must be enrolled student
+- Must be enrolled student 18+
 - Full access during off-peak hours
 - No voting rights (same rights as Supporting members)
 
@@ -1017,7 +1017,6 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 2. **Tiered pricing** - Ensure affordable access ($12 student to $50 individual)
 3. **Volunteer credits** - Members can work for $0 dues
 4. **Corporate partnerships** - Bundle memberships with business sponsorships
-5. **Library transition** - Reach out to Library's 71K users served
 
 ---
 
