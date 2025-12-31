@@ -54,12 +54,12 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 
 ### **MEMBERSHIP TIERS**
 
-#### **1. VOTING MEMBERS (Full Ownership)**
+#### **1. VOTING MEMBERS (Full Ownership) - $80/month**
 
 **Requirements:**
 - 6+ months continuous membership
 - 20+ volunteer hours contributed annually
-- Pay annual dues + monthly fees
+- Pay monthly fee: $80
 - Participate in governance
 
 **Rights:**
@@ -75,29 +75,31 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 
 ---
 
-#### **2. SUPPORTING MEMBERS (Non-Voting)**
+#### **2. SUPPORTING MEMBERS (Non-Voting) - $50/month**
 
 **Individual Members:**
-- Monthly dues: $30-$50
+- Monthly dues: $50
 - Access to facilities and equipment
 - Discounts on classes
 - No voting rights (until eligible for voting)
 - Can volunteer to reduce dues
 
+**Same rights as Student and Family members**
+
 **Family Members:**
-- Monthly dues: $60-$80
+- Monthly dues: $80
 - Includes 2 adults + children under 18
 - Same access as individual
-- No voting rights
+- No voting rights (same rights as Supporting members)
 
 **Student Members:**
-- Monthly dues: $12-$15
+- Monthly dues: $25
 - Must be enrolled student
 - Full access during off-peak hours
-- No voting rights
+- No voting rights (same rights as Supporting members)
 
 **Corporate Members:**
-- Monthly dues: $150-$300
+- Monthly dues: $400
 - 5-10 employee badges
 - Priority booking for workshops
 - Logo on website/materials
@@ -110,7 +112,7 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 #### **3. COMMUNITY MEMBERS (Basic Access)**
 
 **Day Pass:**
-- $10-$15 per visit
+- $20 per visit
 - Access to basic equipment
 - No membership commitment
 - No voting rights
@@ -233,7 +235,7 @@ GRANT-FUNDED PROGRAMS (Separate)
 
 ### **ANNUAL CORE BUDGET: $637,935**
 
-#### **PERSONNEL (7 FTE): $397,043**
+#### **PERSONNEL (6 FTE): $397,043**
 
 **These are NON-GRANT staff funded by earned income:**
 
@@ -241,17 +243,18 @@ GRANT-FUNDED PROGRAMS (Separate)
 Executive Director................................. $   84,500
   (Leadership, fundraising, operations, facilities)
 
-Maker Educators (4 FTE)............................ $  197,600
+Maker Educators (5 FTE)............................ $  247,000
   (Equipment training, instruction, member support,
    program coordination, safety compliance)
 
-Front Desk/Member Services (2 FTE)................. $   80,000
-  (Reception, membership, communications, admin)
+Member Services & Outreach (1 FTE)................. $   40,000
+  (Reception, membership, communications, admin,
+   community outreach, marketing)
   *Supplemented by member volunteers*
 
 Payroll Taxes & Workers Comp....................... $   34,943
                                                     ___________
-TOTAL CORE PERSONNEL............................... $  397,043
+TOTAL CORE PERSONNEL............................... $  406,443
 ```
 
 **NOTE:** Grant-funded staff (Skills to Launch instructors, Teen Tech coordinators, etc.) are **NOT included** in this budget. They are hired and paid from their specific grants.
@@ -293,38 +296,43 @@ Property Acquisition Loan
   Annual Debt Service.............................. $   80,892
 ```
 
-### **TOTAL CORE OPERATIONS BUDGET: $637,935**
+### **TOTAL CORE OPERATIONS BUDGET: $647,335**
 
 ---
 
 ## **SECTION 4: CORE REVENUE MODEL**
 
-### **EARNED INCOME: $405,400 (64% of core budget)**
+### **EARNED INCOME: $563,400 (88% of core budget)**
 
-#### **MEMBERSHIPS: $179,400**
+#### **MEMBERSHIPS: $243,600**
 
 ```
-Individual Members (250 @ $30/mo average).......... $   90,000
+Voting Members (100 @ $80/mo)....................... $   96,000
+  *Full ownership rights, governance participation*
+
+Supporting Members (150 @ $50/mo)................... $   90,000
+  *Standard access, non-voting*
   *Assumes 30% earn volunteer credits*
 
-Family Members (40 @ $60/mo)....................... $   28,800
+Family Members (40 @ $80/mo)....................... $   38,400
+  *2 adults + children, non-voting*
 
-Student Members (150 @ $12/mo)..................... $   21,600
-  *Heavily discounted for access/equity*
+Student Members (150 @ $25/mo)..................... $   45,000
+  *Discounted access for students*
 
-Corporate Members (15 @ $150/mo)................... $   27,000
+Corporate Members (15 @ $400/mo)................... $   72,000
   *5-10 employee badges, priority booking*
 
-Day Passes (1,200 @ $10)........................... $   12,000
+Day Passes (600 @ $20)........................... $   12,000
   *Walk-in visitors, trial users*
                                                     ___________
-SUBTOTAL MEMBERSHIPS............................... $  179,400
+SUBTOTAL MEMBERSHIPS............................... $  353,400
 ```
 
 **Member Growth Strategy:**
-- Year 1: 440 total members (250 ind + 40 fam + 150 student)
-- Year 2: 550 total members (25% growth)
-- Year 3: 650 total members (18% growth)
+- Year 1: 455 total members (100 voting + 150 supporting + 40 family + 150 student + 15 corporate)
+- Year 2: 570 total members (25% growth)
+- Year 3: 675 total members (18% growth)
 
 ---
 
@@ -381,7 +389,7 @@ Equipment Hourly Rental (non-members).............. $    5,000
 SUBTOTAL EQUIPMENT SERVICES........................ $   70,000
 ```
 
-**Growth Strategy:** 
+**Growth Strategy:**
 - Partner with local businesses for fabrication needs
 - Offer rapid prototyping for startups
 - Build reputation as regional maker services provider
@@ -452,20 +460,20 @@ TOTAL BASELINE SUPPORT............................. $  220,000
 
 ---
 
-### **TOTAL CORE OPERATIONS REVENUE: $625,400**
+### **TOTAL CORE OPERATIONS REVENUE: $783,400**
 
 ```
-Earned Income...................................... $  405,400  (65%)
-Baseline Support................................... $  220,000  (35%)
+Earned Income...................................... $  563,400  (72%)
+Baseline Support................................... $  220,000  (28%)
                                                     ___________
-TOTAL CORE REVENUE................................. $  625,400
+TOTAL CORE REVENUE................................. $  783,400
 
-CORE BUDGET........................................ $  637,935
+CORE BUDGET........................................ $  647,335
                                                     ___________
-CORE OPERATIONS NET (before grant overhead)........ $ (12,535)
+CORE OPERATIONS NET (before grant overhead)........ $ 136,065
 ```
 
-**Note:** Small deficit covered by overhead contributions from grant programs (see Section 5)
+**Note:** Core operations are now solidly profitable from earned income alone
 
 ---
 
@@ -551,10 +559,10 @@ Total Grant Revenue................................ $  275,000
 Net Grant Programs................................. $   20,000
 ```
 
-**Key Insight:** 
+**Key Insight:**
 - Grant programs generate $20K overhead to help cover core operations
-- Core deficit of $12.5K is MORE than covered by grant overhead
-- Total Hub is profitable with diversified revenue
+- Core operations now generate $136K surplus even without grant overhead
+- Total Hub is very profitable with diversified revenue
 
 ---
 
@@ -564,32 +572,32 @@ Net Grant Programs................................. $   20,000
 
 ```
 REVENUE
-  Core Earned Income............................... $  405,400
+  Core Earned Income............................... $  563,400
   Core Baseline Support............................ $  220,000
   Grant Programs................................... $  275,000
   Grant Overhead Contribution...................... $   20,000
                                                     ___________
-TOTAL REVENUE...................................... $  920,400
+TOTAL REVENUE...................................... $1,078,400
 
 EXPENSES
-  Core Personnel (7 FTE)........................... $  397,043
+  Core Personnel (6 FTE)........................... $  406,443
   Core Operations.................................. $  160,000
   Core Debt Service................................ $   80,892
   Grant Program Staff (3-4 FTE).................... $  180,000
   Grant Program Expenses........................... $   75,000
                                                     ___________
-TOTAL EXPENSES..................................... $  892,935
+TOTAL EXPENSES..................................... $  902,335
 
-NET INCOME......................................... $   27,465
+NET INCOME......................................... $  176,065
 ```
 
 ### **KEY METRICS:**
 
-- **Total FTE:** 10-11 (7 core + 3-4 grant-funded)
-- **Earned Income as % of Total:** 44%
-- **Core Ops Coverage by Earned Income:** 64%
+- **Total FTE:** 9-10 (6 core + 3-4 grant-funded)
+- **Earned Income as % of Total:** 52%
+- **Core Ops Coverage by Earned Income:** 87%
 - **Grant Dependency:** Low (core ops sustainable without grants)
-- **Financial Sustainability:** HIGH
+- **Financial Sustainability:** VERY HIGH
 
 ---
 
@@ -607,32 +615,32 @@ NET INCOME......................................... $   27,465
 | **Line Item** | **Year 1** | **Year 2** | **Year 3** |
 |--------------|-----------|-----------|-----------|
 | **CORE REVENUE** |
-| Earned Income | $405,400 | $475,000 | $545,000 |
+| Earned Income | $563,400 | $660,000 | $760,000 |
 | Baseline Support | $220,000 | $226,600 | $233,400 |
-| **Subtotal Core** | **$625,400** | **$701,600** | **$778,400** |
+| **Subtotal Core** | **$783,400** | **$886,600** | **$993,400** |
 | **GRANT PROGRAMS** |
 | Grant Revenue | $275,000 | $300,000 | $325,000 |
 | Overhead Contribution | $20,000 | $22,000 | $24,000 |
 | **Subtotal Grants** | **$295,000** | **$322,000** | **$349,000** |
-| **TOTAL REVENUE** | **$920,400** | **$1,023,600** | **$1,127,400** |
+| **TOTAL REVENUE** | **$1,078,400** | **$1,208,600** | **$1,342,400** |
 | | | | |
 | **CORE EXPENSES** |
-| Core Personnel | $397,043 | $408,954 | $421,223 |
+| Core Personnel | $406,443 | $418,636 | $431,195 |
 | Core Operations | $160,000 | $164,800 | $169,744 |
 | Debt Service | $80,892 | $80,892 | $80,892 |
-| **Subtotal Core** | **$637,935** | **$654,646** | **$671,859** |
+| **Subtotal Core** | **$647,335** | **$664,328** | **$681,831** |
 | **GRANT EXPENSES** |
 | Grant Staff | $180,000 | $195,000 | $210,000 |
 | Grant Programs | $75,000 | $82,500 | $90,000 |
 | **Subtotal Grants** | **$255,000** | **$277,500** | **$300,000** |
-| **TOTAL EXPENSES** | **$892,935** | **$932,146** | **$971,859** |
+| **TOTAL EXPENSES** | **$902,335** | **$941,828** | **$981,831** |
 | | | | |
-| **NET INCOME** | **$27,465** | **$91,454** | **$155,541** |
+| **NET INCOME** | **$176,065** | **$266,772** | **$360,569** |
 | | | | |
 | **CASH RESERVES** |
-| Beginning Balance | $50,000 | $77,465 | $168,919 |
-| Net Income | $27,465 | $91,454 | $155,541 |
-| **Ending Balance** | **$77,465** | **$168,919** | **$324,460** |
+| Beginning Balance | $50,000 | $226,065 | $492,837 |
+| Net Income | $176,065 | $266,772 | $360,569 |
+| **Ending Balance** | **$226,065** | **$492,837** | **$853,406** |
 
 **Strong growth trajectory with building reserves for capital improvements**
 
@@ -643,13 +651,13 @@ NET INCOME......................................... $   27,465
 ### **VOLUNTEER LABOR VALUE:**
 
 **Front Desk Coverage:**
-- 2 FTE normally required = $80,000/year
-- With volunteers covering 50% of shifts = $40,000 saved
-- Members earn membership credits = $40,000 in "scholarships"
+- 1 FTE Member Services & Outreach = $40,000/year
+- With volunteers covering 50% of front desk shifts = equivalent to $20,000 staff position
+- Members earn membership credits = $20,000 in "scholarships"
 
 **Net Effect:**
-- Actual cash savings: Minimal (still need 2 FT coordinators)
-- Member benefit: Massive (effective $40K in reduced membership fees)
+- Actual cash savings: Significant (1 FTE vs 2 FTE)
+- Member benefit: Massive (effective $20K in reduced membership fees)
 - Community building: Priceless (members invest labor, build ownership)
 
 **Other Volunteer Benefits:**
@@ -658,13 +666,13 @@ NET INCOME......................................... $   27,465
 - Event support: $5,000 value
 - Marketing/admin: $7,000 value
 
-**Total Volunteer Labor Value: $70,000/year**
+**Total Volunteer Labor Value: $50,000/year**
 
 **Volunteer Model Enables:**
 - Lower membership dues (affordable for more people)
 - Deeper member engagement and ownership
 - Skills development for volunteers
-- Sustainable staffing model
+- Sustainable staffing model with 5 Maker Educators
 - True cooperative culture
 
 ---
@@ -694,9 +702,9 @@ CDFI FIRST MORTGAGE................................ $  900,000  (72%)
 TOTAL ACQUISITION FINANCING........................ $1,250,000
 ```
 
-**Debt Service Coverage Ratio:** 
-- Core Revenue / Debt Service = $625,400 / $80,892 = **7.7x** (Excellent)
-- Total Revenue / Debt Service = $920,400 / $80,892 = **11.4x** (Outstanding)
+**Debt Service Coverage Ratio:**
+- Core Revenue / Debt Service = $783,400 / $80,892 = **9.7x** (Excellent)
+- Total Revenue / Debt Service = $1,078,400 / $80,892 = **13.3x** (Outstanding)
 
 ---
 
@@ -775,7 +783,7 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 ### **PHASE 2: OPERATIONAL LAUNCH (Months 4-6)**
 
 **Month 4-5 (April-May 2026):**
-- Hire 4 Maker Educators + 2 Front Desk staff
+- Hire 5 Maker Educators + 1 Member Services & Outreach staff
 - Recruit and train 50 member volunteers
 - Set up membership system and volunteer tracking
 - Equipment audit and maintenance
@@ -892,7 +900,7 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 
 ### **THIS PLAN IS VIABLE BECAUSE:**
 
-1. **Core operations funded by EARNED INCOME (64%)** - not grant-dependent
+1. **Core operations funded by EARNED INCOME (87%)** - not grant-dependent
 2. **Cooperative structure** - member-owners ensure sustainability
 3. **Volunteer workforce** - reduces costs, builds community
 4. **Grant programs separate** - additive, not essential
@@ -903,17 +911,17 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 ### **FINANCIAL SUMMARY:**
 
 ```
-Year 1 Revenue..................................... $  920,400
-Year 1 Expenses.................................... $  892,935
-Year 1 Net Income.................................. $   27,465
+Year 1 Revenue..................................... $1,078,400
+Year 1 Expenses.................................... $  902,335
+Year 1 Net Income.................................. $  176,065
 
-Core Ops Earned Income............................. $  405,400  (64% of core)
-Total Earned Income................................ $  405,400  (44% of total)
+Core Ops Earned Income............................. $  563,400  (87% of core)
+Total Earned Income................................ $  563,400  (52% of total)
 Grant Dependency................................... LOW (core sustainable without)
 
-Members............................................ 440+ (Year 1)
+Members............................................ 455+ (Year 1)
 Volunteers......................................... 50-75 active
-Staff (Core)....................................... 7 FTE
+Staff (Core)....................................... 6 FTE
 Staff (Grant-funded)............................... 3-4 FTE
 ```
 
