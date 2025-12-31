@@ -259,6 +259,53 @@ TOTAL CORE PERSONNEL............................... $  406,443
 
 **NOTE:** Grant-funded staff (Skills to Launch instructors, Teen Tech coordinators, etc.) are **NOT included** in this budget. They are hired and paid from their specific grants.
 
+**MAKER EDUCATOR COMPENSATION MODEL:**
+
+The Hub uses an innovative compensation model that aligns educator incentives with organizational success:
+
+```
+BASE SALARY STRUCTURE (5 FTE Educators)
+  Average base salary: $49,400/educator............. $  247,000
+  (Competitive for Arkansas market)
+
+PLUS: REVENUE SHARING
+  Classes & Courses: 30% of gross revenue........... $  121,680
+  Fabrication Services: 20% of gross revenue........ $   25,400
+                                                     ___________
+  Total Revenue Share (estimated)................... $  147,080
+
+TOTAL EDUCATOR COMPENSATION POOL.................... $  394,080
+Average per educator: $78,816 ($49,400 base + $29,416 revenue share)
+```
+
+**This model enables:**
+
+✅ **Competitive Total Compensation** - $78K average vs $49K base attracts top talent  
+✅ **Flexible Staffing** - Can hire 1 FTE + 2-3 PT educators in specialized areas  
+✅ **Performance Incentives** - Revenue share rewards full classes & quality instruction  
+✅ **Lower Fixed Costs** - Base salaries are lower, reducing financial risk  
+✅ **Entrepreneurial Culture** - Educators motivated to develop curriculum & attract students  
+✅ **Contractor Pathway** - Enables talented makers to teach part-time while building businesses
+
+**Time Allocation:**
+- 75% instructional time (classes, courses, school programs)
+- 25% fabrication services (client work, prototypes, custom projects)
+- Quarterly revenue share payouts based on actual class enrollment & fabrication billing
+
+**Example Educator Earnings:**
+- Teaches 40 students/quarter in courses @ $250 avg = $10,000 revenue
+- Educator receives 30% = $3,000
+- Plus fabrication projects $4,000 revenue = $800 (20%)
+- Quarterly bonus: $3,800
+- Annual revenue share: ~$15,200 + $49,400 base = **$64,600 total**
+
+**Growth Scenario:**
+- Successful educator fills classes consistently
+- Develops specialty (e.g., advanced CNC, robotics)
+- Annual revenue share reaches $40,000
+- Total compensation: $89,400
+- Can transition to developing new curriculum & teaching PT contractors
+
 #### **OPERATIONS: $160,000**
 
 ```
@@ -302,7 +349,7 @@ Property Acquisition Loan
 
 ## **SECTION 4: CORE REVENUE MODEL**
 
-### **EARNED INCOME: $563,400 (88% of core budget)**
+### **EARNED INCOME: $753,040 (116% of core budget)**
 
 #### **MEMBERSHIPS: $243,600**
 
@@ -336,58 +383,198 @@ SUBTOTAL MEMBERSHIPS............................... $  353,400
 
 ---
 
-#### **CLASSES & WORKSHOPS: $110,000**
+#### **CLASSES & COURSES: $198,000**
+
+**STAFFING CAPACITY:**
+- 5 FTE Maker Educators @ 75% instructional time = 3.75 FTE teaching capacity
+- 25% of time dedicated to fabrication services
+- 3 classroom spaces (max 15 students each)
+- Operating 6 days/week (Tuesday-Sunday)
+
+**REVENUE SHARING MODEL:**
+- Educators receive 30% of gross class/course revenue
+- Incentivizes quality instruction and student retention
+- Enables contractor/part-time educator model
+- Could evolve to 1 FTE + 2 PT educators per specialty
+
+**ONE-TIME WORKSHOPS (Under $100 including supplies):**
 
 ```
-Youth Classes (50 sessions @ $500)................. $   25,000
-  *After-school, weekend programs*
+Youth One-Time Workshops (90 sessions/year)
+  Saturday mornings, after-school sessions
+  60-90 minutes, 8-12 students
+  Topics: 3D printing basics, laser cutting intro,
+    robotics sampler, woodworking fundamentals
+  Price: $45-$75 per student
+  Revenue: 90 sessions × 10 avg × $60............... $   54,000
+  Educator share (30%)............................. $  (16,200)
+  Net to Hub....................................... $   37,800
 
-Adult Classes (40 sessions @ $600)................. $   24,000
-  *Beginner to advanced maker skills*
+Adult One-Time Workshops (72 sessions/year)
+  Weekend and evening offerings
+  90 minutes, 10-15 students
+  Topics: CNC basics, electronics intro, Arduino 101,
+    vinyl cutting, welding fundamentals
+  Price: $65-$95 per student
+  Revenue: 72 sessions × 12 avg × $80.............. $   69,120
+  Educator share (30%)............................. $  (20,736)
+  Net to Hub....................................... $   48,384
 
-Summer Camps (5 weeks @ $3,000).................... $   15,000
-  *Full-day STEAM camps*
-
-School Field Trips (100 @ $300).................... $   30,000
-  *Revenue-generating school partnerships*
-
-Corporate Workshops (12 @ $1,000).................. $   12,000
-  *Team building, professional development*
-
-Private Instruction................................ $    4,000
-  *One-on-one equipment training*
+Special Events Workshops (24 sessions/year)
+  Date nights, parent-child, team building
+  2 hours, 8-12 participants
+  Topics: Custom projects, collaborative builds
+  Price: $85-$100 per person
+  Revenue: 24 sessions × 10 avg × $90.............. $   21,600
+  Educator share (30%)............................. $   (6,480)
+  Net to Hub....................................... $   15,120
                                                     ___________
-SUBTOTAL CLASSES & WORKSHOPS....................... $  110,000
+ONE-TIME WORKSHOP NET TO HUB....................... $  101,304
 ```
+
+**MULTI-WEEK COURSES ($200+):**
+
+```
+Youth Multi-Week Courses (32 courses/year)
+  4-6 week sessions, quarterly schedule
+  Weekly 90-minute classes, 8-12 students
+  Topics: Robotics Series (6wks), Game Design (4wks),
+    Maker Skills Academy (6wks), 3D Modeling (4wks)
+  Price: $200-$280 per student (6-week @ $240 avg)
+  Revenue: 32 courses × 10 avg × $240.............. $   76,800
+  Educator share (30%)............................. $  (23,040)
+  Net to Hub....................................... $   53,760
+
+Adult Multi-Week Courses (28 courses/year)
+  4-6 week sessions, quarterly schedule  
+  Weekly 2-hour classes, 10-15 students
+  Topics: Woodworking Fundamentals (6wks),
+    Electronics & Arduino (6wks), CNC Mastery (4wks),
+    Welding Certification (6wks)
+  Price: $240-$320 per student (6-week @ $280 avg)
+  Revenue: 28 courses × 12 avg × $280.............. $   94,080
+  Educator share (30%)............................. $  (28,224)
+  Net to Hub....................................... $   65,856
+
+Summer Youth Camps (10 weeks)
+  Full-day intensive camps (M-F, 9am-3pm)
+  15 students max per week
+  Topics: Maker Camp, Robotics Camp, Design Camp
+  Price: $350-$450 per week
+  Revenue: 10 weeks × 15 avg × $400................ $   60,000
+  Educator share (30%)............................. $  (18,000)
+  Net to Hub....................................... $   42,000
+                                                    ___________
+MULTI-WEEK COURSE NET TO HUB....................... $  161,616
+```
+
+**SCHOOL PARTNERSHIPS & FIELD TRIPS:**
+
+```
+School Field Trips (100 visits/year)
+  2-hour hands-on sessions
+  25 students per visit
+  Price: $300 per visit (group rate)
+  Revenue: 100 × $300.............................. $   30,000
+  Educator share (30%)............................. $   (9,000)
+  Net to Hub....................................... $   21,000
+  *Educators compensated for school day availability*
+                                                    ___________
+TOTAL CLASSES & COURSES REVENUE.................... $  411,720
+TOTAL EDUCATOR SHARE (30%)......................... $ (121,680)
+                                                    ___________
+NET CLASSES & COURSES TO HUB....................... $  290,040
+```
+
+**CLASSROOM UTILIZATION:**
+- 3 rooms × 6 days × 4 sessions/day = 72 session slots/week
+- Annual capacity: ~3,700 session slots
+- Projected usage: ~350 sessions/year = 9.5% utilization
+- Significant growth capacity available
+
+**REVENUE SHARING BENEFITS:**
+- Attracts high-quality educators (base + 30% = competitive pay)
+- Aligns incentives (educators motivated to fill classes)
+- Enables flexible staffing (FT + PT + contractor mix)
+- Reduces risk (lower revenue = lower labor cost)
+- Supports entrepreneurial educators building curriculum
 
 **Key Insight:** School field trips are HIGH-MARGIN revenue ($30K from 100 visits)
 
 ---
 
-#### **EQUIPMENT SERVICES & FABRICATION: $70,000**
+#### **EQUIPMENT SERVICES & FABRICATION: $105,000**
+
+**FABRICATION CAPACITY:**
+- 5 FTE Maker Educators @ 25% time = 1.25 FTE fabrication capacity
+- ~2,500 hours/year available for client work
+- Average billable rate: $50-$75/hour (materials extra)
+- Educators receive 20% of fabrication revenue (lower than classes due to equipment overhead)
 
 **This is the "maker business" revenue stream:**
 
 ```
-3D Printing Services............................... $   12,000
+3D Printing Services............................... $   18,000
   *Prototyping, replacement parts, custom items*
+  *50-100 projects/year @ $180-$350 avg*
+  *Educator compensation (20%)..................... $   (3,600)
+  *Net to Hub...................................... $   14,400
 
-Laser Cutting Services............................. $   10,000
+Laser Cutting & Engraving Services................. $   22,000
   *Signage, acrylic products, custom cutting*
+  *100-150 projects/year @ $150-$220 avg*
+  *Educator compensation (20%)..................... $   (4,400)
+  *Net to Hub...................................... $   17,600
 
-CNC Services....................................... $    8,000
-  *Precision milling, custom parts*
+CNC Milling Services............................... $   15,000
+  *Precision milling, custom parts, prototypes*
+  *30-50 projects/year @ $300-$500 avg*
+  *Educator compensation (20%)..................... $   (3,000)
+  *Net to Hub...................................... $   12,000
 
-Product Prototyping/Development.................... $   15,000
+Product Prototyping & Development.................. $   25,000
   *Help entrepreneurs develop products*
+  *15-25 intensive projects/year @ $1,000-$1,500*
+  *Educator compensation (20%)..................... $   (5,000)
+  *Net to Hub...................................... $   20,000
 
-Custom Fabrication Projects........................ $   20,000
-  *Build custom furniture, art, installations*
+Custom Fabrication Projects........................ $   35,000
+  *Build custom furniture, art installations*
+  *20-30 projects/year @ $1,200-$1,800 avg*
+  *Educator compensation (20%)..................... $   (7,000)
+  *Net to Hub...................................... $   28,000
 
-Equipment Hourly Rental (non-members).............. $    5,000
+Welding & Metal Fabrication........................ $   12,000
+  *Custom metalwork, repairs, installations*
+  *25-40 projects/year @ $300-$480 avg*
+  *Educator compensation (20%)..................... $   (2,400)
+  *Net to Hub...................................... $    9,600
+
+Equipment Hourly Rental (non-members).............. $    8,000
+  *Supervised equipment use, $25-$75/hour*
+  *200 hours/year average*
+  *No educator share (member services staff)....... $        0
+  *Net to Hub...................................... $    8,000
                                                     ___________
-SUBTOTAL EQUIPMENT SERVICES........................ $   70,000
+GROSS FABRICATION REVENUE.......................... $  135,000
+TOTAL EDUCATOR COMPENSATION (20%).................. $  (25,400)
+                                                    ___________
+NET FABRICATION SERVICES TO HUB.................... $  109,600
 ```
+
+**FABRICATION GROWTH STRATEGY:**
+- Partner with local businesses for fabrication needs
+- Offer rapid prototyping for startups & accelerators
+- Build portfolio showcasing complex projects
+- Develop corporate relationships (engineering firms, architects)
+- Competitive pricing undercuts commercial shops initially
+- Marketing to UALR, ASU, Philander Smith for student projects
+
+**EDUCATOR FABRICATION INCENTIVE:**
+- 20% revenue share motivates quality work & client service
+- Builds expertise in commercial fabrication
+- Creates pathway for educators to develop specializations
+- Lower share than classes due to higher equipment costs
 
 **Growth Strategy:**
 - Partner with local businesses for fabrication needs
@@ -460,20 +647,20 @@ TOTAL BASELINE SUPPORT............................. $  220,000
 
 ---
 
-### **TOTAL CORE OPERATIONS REVENUE: $783,400**
+### **TOTAL CORE OPERATIONS REVENUE: $973,040**
 
 ```
-Earned Income...................................... $  563,400  (72%)
-Baseline Support................................... $  220,000  (28%)
+Earned Income...................................... $  753,040  (77%)
+Baseline Support................................... $  220,000  (23%)
                                                     ___________
-TOTAL CORE REVENUE................................. $  783,400
+TOTAL CORE REVENUE................................. $  973,040
 
 CORE BUDGET........................................ $  647,335
                                                     ___________
-CORE OPERATIONS NET (before grant overhead)........ $ 136,065
+CORE OPERATIONS NET (before grant overhead)........ $ 325,705
 ```
 
-**Note:** Core operations are now solidly profitable from earned income alone
+**Note:** Core operations are now highly profitable from earned income alone, with $325K+ annual surplus
 
 ---
 
@@ -561,8 +748,8 @@ Net Grant Programs................................. $   20,000
 
 **Key Insight:**
 - Grant programs generate $20K overhead to help cover core operations
-- Core operations now generate $136K surplus even without grant overhead
-- Total Hub is very profitable with diversified revenue
+- Core operations now generate $326K surplus even without grant overhead
+- Total Hub is highly profitable with diversified revenue streams
 
 ---
 
@@ -572,32 +759,35 @@ Net Grant Programs................................. $   20,000
 
 ```
 REVENUE
-  Core Earned Income............................... $  563,400
+  Core Earned Income............................... $  753,040
   Core Baseline Support............................ $  220,000
   Grant Programs................................... $  275,000
   Grant Overhead Contribution...................... $   20,000
                                                     ___________
-TOTAL REVENUE...................................... $1,078,400
+TOTAL REVENUE...................................... $1,268,040
 
 EXPENSES
   Core Personnel (6 FTE)........................... $  406,443
+  Educator Revenue Share (Classes)................. $  121,680
+  Educator Revenue Share (Fabrication)............. $   25,400
   Core Operations.................................. $  160,000
   Core Debt Service................................ $   80,892
   Grant Program Staff (3-4 FTE).................... $  180,000
   Grant Program Expenses........................... $   75,000
                                                     ___________
-TOTAL EXPENSES..................................... $  902,335
+TOTAL EXPENSES..................................... $1,049,415
 
-NET INCOME......................................... $  176,065
+NET INCOME......................................... $  218,625
 ```
 
 ### **KEY METRICS:**
 
 - **Total FTE:** 9-10 (6 core + 3-4 grant-funded)
-- **Earned Income as % of Total:** 52%
-- **Core Ops Coverage by Earned Income:** 87%
-- **Grant Dependency:** Low (core ops sustainable without grants)
-- **Financial Sustainability:** VERY HIGH
+- **Earned Income as % of Total:** 59%
+- **Core Ops Coverage by Earned Income:** 116%
+- **Grant Dependency:** Very Low (core ops highly sustainable without grants)
+- **Financial Sustainability:** EXCELLENT
+- **Educator Compensation Model:** Base salary + 30% class revenue + 20% fabrication revenue
 
 ---
 
@@ -615,32 +805,34 @@ NET INCOME......................................... $  176,065
 | **Line Item** | **Year 1** | **Year 2** | **Year 3** |
 |--------------|-----------|-----------|-----------|
 | **CORE REVENUE** |
-| Earned Income | $563,400 | $660,000 | $760,000 |
+| Earned Income | $753,040 | $880,000 | $1,020,000 |
 | Baseline Support | $220,000 | $226,600 | $233,400 |
-| **Subtotal Core** | **$783,400** | **$886,600** | **$993,400** |
+| **Subtotal Core** | **$973,040** | **$1,106,600** | **$1,253,400** |
 | **GRANT PROGRAMS** |
 | Grant Revenue | $275,000 | $300,000 | $325,000 |
 | Overhead Contribution | $20,000 | $22,000 | $24,000 |
 | **Subtotal Grants** | **$295,000** | **$322,000** | **$349,000** |
-| **TOTAL REVENUE** | **$1,078,400** | **$1,208,600** | **$1,342,400** |
+| **TOTAL REVENUE** | **$1,268,040** | **$1,428,600** | **$1,602,400** |
 | | | | |
 | **CORE EXPENSES** |
 | Core Personnel | $406,443 | $418,636 | $431,195 |
+| Educator Revenue Share - Classes | $121,680 | $140,000 | $160,000 |
+| Educator Revenue Share - Fabrication | $25,400 | $29,000 | $33,000 |
 | Core Operations | $160,000 | $164,800 | $169,744 |
 | Debt Service | $80,892 | $80,892 | $80,892 |
-| **Subtotal Core** | **$647,335** | **$664,328** | **$681,831** |
+| **Subtotal Core** | **$794,415** | **$833,328** | **$874,831** |
 | **GRANT EXPENSES** |
 | Grant Staff | $180,000 | $195,000 | $210,000 |
 | Grant Programs | $75,000 | $82,500 | $90,000 |
 | **Subtotal Grants** | **$255,000** | **$277,500** | **$300,000** |
-| **TOTAL EXPENSES** | **$902,335** | **$941,828** | **$981,831** |
+| **TOTAL EXPENSES** | **$1,049,415** | **$1,110,828** | **$1,174,831** |
 | | | | |
-| **NET INCOME** | **$176,065** | **$266,772** | **$360,569** |
+| **NET INCOME** | **$218,625** | **$317,772** | **$427,569** |
 | | | | |
 | **CASH RESERVES** |
-| Beginning Balance | $50,000 | $226,065 | $492,837 |
-| Net Income | $176,065 | $266,772 | $360,569 |
-| **Ending Balance** | **$226,065** | **$492,837** | **$853,406** |
+| Beginning Balance | $50,000 | $268,625 | $586,397 |
+| Net Income | $218,625 | $317,772 | $427,569 |
+| **Ending Balance** | **$268,625** | **$586,397** | **$1,013,966** |
 
 **Strong growth trajectory with building reserves for capital improvements**
 
@@ -703,8 +895,8 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 ```
 
 **Debt Service Coverage Ratio:**
-- Core Revenue / Debt Service = $783,400 / $80,892 = **9.7x** (Excellent)
-- Total Revenue / Debt Service = $1,078,400 / $80,892 = **13.3x** (Outstanding)
+- Core Revenue / Debt Service = $973,040 / $80,892 = **12.0x** (Outstanding)
+- Total Revenue / Debt Service = $1,268,040 / $80,892 = **15.7x** (Exceptional)
 
 ---
 
@@ -900,7 +1092,7 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 
 ### **THIS PLAN IS VIABLE BECAUSE:**
 
-1. **Core operations funded by EARNED INCOME (87%)** - not grant-dependent
+1. **Core operations funded by EARNED INCOME (116%)** - exceeds operating costs
 2. **Cooperative structure** - member-owners ensure sustainability
 3. **Volunteer workforce** - reduces costs, builds community
 4. **Grant programs separate** - additive, not essential
@@ -911,18 +1103,20 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 ### **FINANCIAL SUMMARY:**
 
 ```
-Year 1 Revenue..................................... $1,078,400
-Year 1 Expenses.................................... $  902,335
-Year 1 Net Income.................................. $  176,065
+Year 1 Revenue..................................... $1,268,040
+Year 1 Expenses.................................... $1,049,415
+Year 1 Net Income.................................. $  218,625
 
-Core Ops Earned Income............................. $  563,400  (87% of core)
-Total Earned Income................................ $  563,400  (52% of total)
-Grant Dependency................................... LOW (core sustainable without)
+Core Ops Earned Income............................. $  753,040  (116% of core)
+Total Earned Income................................ $  753,040  (59% of total)
+Grant Dependency................................... VERY LOW (core highly sustainable)
 
 Members............................................ 455+ (Year 1)
 Volunteers......................................... 50-75 active
-Staff (Core)....................................... 6 FTE
+Staff (Core)....................................... 6 FTE + revenue share model
 Staff (Grant-funded)............................... 3-4 FTE
+
+Educator Compensation Model........................ Base + 30% class revenue + 20% fab revenue
 ```
 
 ### **THE COOPERATIVE DIFFERENCE:**
