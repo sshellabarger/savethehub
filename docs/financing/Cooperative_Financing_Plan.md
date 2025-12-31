@@ -6,20 +6,20 @@
 **Legal Structure:** Member-owned Cooperative (501(c)(3) with cooperative features)  
 **Property:** 201 E. Broadway, North Little Rock, AR
 
----
+  
 
 ## **EXECUTIVE SUMMARY**
 
 This plan outlines a financially sustainable, member-owned cooperative model for the Arkansas Regional Innovation Hub. The cooperative structure:
 
-✅ **Core operations funded by EARNED INCOME** - memberships, classes, fabrication services  
-✅ **Grant programs tracked SEPARATELY** with dedicated staff (Skills to Launch, etc.)  
-✅ **Volunteer workforce** reduces staffing costs, members earn discounts  
-✅ **Cooperative ownership** - voting and non-voting members control the Hub  
-✅ **Federal compliance** maintained through 2035 EDA grant requirement  
-✅ **True community ownership** - members own and govern the space
+  **Core operations funded by EARNED INCOME** - memberships, classes, fabrication services  
+  **Grant programs tracked SEPARATELY** with dedicated staff (Skills to Launch, etc.)  
+  **Volunteer workforce** reduces staffing costs, members earn discounts  
+  **Cooperative ownership** - voting and non-voting members control the Hub  
+  **Federal compliance** maintained through 2035 EDA grant requirement  
+  **True community ownership** - members own and govern the space
 
----
+  
 
 ## **SECTION 1: COOPERATIVE STRUCTURE**
 
@@ -46,11 +46,11 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 **Ownership:** No individual equity, members have voting rights
 
 **This structure allows:**
-- ✅ Tax-deductible donations
-- ✅ Grant eligibility (foundation, government, corporate)
-- ✅ Property tax exemptions
-- ✅ Member democratic control
-- ✅ Volunteer labor structure
+-   Tax-deductible donations
+-   Grant eligibility (foundation, government, corporate)
+-   Property tax exemptions
+-   Member democratic control
+-   Volunteer labor structure
 
 ### **MEMBERSHIP TIERS**
 
@@ -73,7 +73,7 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 
 **Target:** 100-150 voting members
 
----
+  
 
 #### **2. SUPPORTING MEMBERS (Non-Voting) - $50/month**
 
@@ -107,7 +107,7 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 
 **Target:** 300-400 supporting members
 
----
+  
 
 #### **3. COMMUNITY MEMBERS (Basic Access)**
 
@@ -124,7 +124,7 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 
 **Target:** 500+ annual community participants
 
----
+  
 
 ### **VOLUNTEER PROGRAM: "SWEAT EQUITY"**
 
@@ -171,7 +171,7 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 
 **Target:** 50-75 active volunteers contributing 10-20 hours/month
 
----
+  
 
 ### **GOVERNANCE STRUCTURE**
 
@@ -201,7 +201,7 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 - Manage daily operations
 - Support committees
 
----
+  
 
 ## **SECTION 2: FINANCIAL MODEL**
 
@@ -215,21 +215,20 @@ This plan outlines a financially sustainable, member-owned cooperative model for
 
 ### **BUDGET STRUCTURE:**
 
-```
-CORE OPERATIONS BUDGET
-├── Core Staff (7 FTE)
-├── Facilities & Operations
-├── Debt Service (Property)
-└── Funded by: Memberships, Classes, Fabrication, Baseline Support
+| Component | Details | Funding Source |
+|-----------|---------|----------------|
+| **CORE OPERATIONS BUDGET** | | |
+| Core Staff (7 FTE) | | Memberships, Classes, Fabrication, Baseline Support |
+| Facilities & Operations | | Memberships, Classes, Fabrication, Baseline Support |
+| Debt Service (Property) | | Memberships, Classes, Fabrication, Baseline Support |
+| **GRANT-FUNDED PROGRAMS (Separate)** | | |
+| Skills to Launch | Dedicated staff + expenses | Grant-funded |
+| Best Buy Teen Tech Center | Dedicated staff + expenses | Grant-funded |
+| Microsoft TechSpark | Dedicated staff + expenses | Grant-funded |
 
-GRANT-FUNDED PROGRAMS (Separate)
-├── Skills to Launch (dedicated staff + expenses)
-├── Best Buy Teen Tech Center (dedicated staff + expenses)
-├── Microsoft TechSpark (dedicated staff + expenses)
-└── Each grant tracked separately, contribution to overhead
-```
+**Note:** Each grant tracked separately, contribution to overhead
 
----
+  
 
 ## **SECTION 3: CORE OPERATIONS BUDGET**
 
@@ -239,711 +238,569 @@ GRANT-FUNDED PROGRAMS (Separate)
 
 **These are NON-GRANT staff funded by earned income:**
 
-```
-Executive Director................................. $   84,500
-  (Leadership, fundraising, operations, facilities)
-
-Maker Educators (5 FTE)............................ $  247,000
-  (Equipment training, instruction, member support,
-   program coordination, safety compliance)
-
-Member Services & Outreach (1 FTE)................. $   40,000
-  (Reception, membership, communications, admin,
-   community outreach, marketing)
-  *Supplemented by member volunteers*
-
-Payroll Taxes & Workers Comp....................... $   34,943
-                                                    ___________
-TOTAL CORE PERSONNEL............................... $  406,443
-```
+| Position | Annual Salary | Notes |
+|----------|--------------|-------|
+| Executive Director | $84,500 | Leadership, fundraising, operations, facilities |
+| Maker Educators (5 FTE) | $247,000 | Equipment training, instruction, member support, program coordination, safety compliance |
+| Member Services & Outreach (1 FTE) | $40,000 | Reception, membership, communications, admin, community outreach, marketing *Supplemented by member volunteers* |
+| Payroll Taxes & Workers Comp | $34,943 | |
+| **TOTAL CORE PERSONNEL** | **$406,443** | |
 
 **NOTE:** Grant-funded staff (Skills to Launch instructors, Teen Tech coordinators, etc.) are **NOT included** in this budget. They are hired and paid from their specific grants.
 
 **MAKER EDUCATOR COMPENSATION MODEL:**
 
-The Hub uses an innovative compensation model that aligns educator incentives with organizational success:
+| Component | Rate/Details |
+|-----------|--------------|
+| **Base Salary** | $35,000/year (0.7 FTE equivalent) |
+| **Class Revenue Share** | 30% of net class revenue they teach |
+| **Fabrication Revenue Share** | 20% of net fabrication revenue they manage |
+| **Expected Total Compensation** | $49,400/year average per educator |
 
-```
-BASE SALARY STRUCTURE (5 FTE Educators)
-  Average base salary: $49,400/educator............. $  247,000
-  (Competitive for Arkansas market)
+**Why This Model Works:**
 
-PLUS: REVENUE SHARING
-  Classes & Courses: 30% of gross revenue........... $  121,680
-  Fabrication Services: 20% of gross revenue........ $   25,400
-                                                     ___________
-  Total Revenue Share (estimated)................... $  147,080
-
-TOTAL EDUCATOR COMPENSATION POOL.................... $  394,080
-Average per educator: $78,816 ($49,400 base + $29,416 revenue share)
-```
-
-**This model enables:**
-
-✅ **Competitive Total Compensation** - $78K average vs $49K base attracts top talent  
-✅ **Flexible Staffing** - Can hire 1 FTE + 2-3 PT educators in specialized areas  
-✅ **Performance Incentives** - Revenue share rewards full classes & quality instruction  
-✅ **Lower Fixed Costs** - Base salaries are lower, reducing financial risk  
-✅ **Entrepreneurial Culture** - Educators motivated to develop curriculum & attract students  
-✅ **Contractor Pathway** - Enables talented makers to teach part-time while building businesses
-
-**Time Allocation:**
-- 75% instructional time (classes, courses, school programs)
-- 25% fabrication services (client work, prototypes, custom projects)
-- Quarterly revenue share payouts based on actual class enrollment & fabrication billing
+1. **Incentivizes excellence** - More students = more income
+2. **Entrepreneurial flexibility** - Educators develop their specialties
+3. **Risk sharing** - Base salary guarantees stability
+4. **Revenue generation** - Educators directly drive income
+5. **Professional growth** - Build personal brand and expertise
 
 **Example Educator Earnings:**
-- Teaches 40 students/quarter in courses @ $250 avg = $10,000 revenue
-- Educator receives 30% = $3,000
-- Plus fabrication projects $4,000 revenue = $800 (20%)
-- Quarterly bonus: $3,800
-- Annual revenue share: ~$15,200 + $49,400 base = **$64,600 total**
-
-**Growth Scenario:**
-- Successful educator fills classes consistently
-- Develops specialty (e.g., advanced CNC, robotics)
-- Annual revenue share reaches $40,000
-- Total compensation: $89,400
-- Can transition to developing new curriculum & teaching PT contractors
-
-#### **OPERATIONS: $160,000**
-
-```
-FACILITIES
-  Utilities (electric, gas, water, data)........... $   35,000
-  Building maintenance............................. $   30,000
-  Grounds/landscape................................ $    8,000
-  Insurance........................................ $   18,000
-  Property taxes (if applicable)................... $   12,000
-  Subtotal Facilities.............................. $  103,000
-
-PROGRAMMING & OPERATIONS
-  Materials & supplies (maker materials)........... $   15,000
-  Equipment maintenance & repair................... $   10,000
-  IT systems & software............................ $    5,000
-  Office supplies.................................. $    2,000
-  Marketing & communications....................... $    5,000
-  Professional development......................... $    3,000
-  Member events & community outreach............... $    5,000
-  Professional fees (legal, accounting)............ $    8,000
-  Miscellaneous & contingency...................... $    4,000
-  Subtotal Operations.............................. $   57,000
-                                                    ___________
-TOTAL OPERATIONS................................... $  160,000
-```
-
-#### **DEBT SERVICE: $80,892**
-
-```
-Property Acquisition Loan
-  Principal: $900,000
-  Interest Rate: 6.5%
-  Term: 25 years
-  Monthly Payment: $6,741
-  Annual Debt Service.............................. $   80,892
-```
-
-### **TOTAL CORE OPERATIONS BUDGET: $647,335**
-
----
-
-## **SECTION 4: CORE REVENUE MODEL**
-
-### **EARNED INCOME: $753,040 (116% of core budget)**
-
-#### **MEMBERSHIPS: $243,600**
-
-```
-Voting Members (100 @ $80/mo)....................... $   96,000
-  *Full ownership rights, governance participation*
-
-Supporting Members (150 @ $50/mo)................... $   90,000
-  *Standard access, non-voting*
-  *Assumes 30% earn volunteer credits*
-
-Family Members (40 @ $80/mo)....................... $   38,400
-  *2 adults + children, non-voting*
-
-Student Members (150 @ $25/mo)..................... $   45,000
-  *Discounted access for students*
-
-Corporate Members (15 @ $400/mo)................... $   72,000
-  *5-10 employee badges, priority booking*
-
-Day Passes (600 @ $20)........................... $   12,000
-  *Walk-in visitors, trial users*
-                                                    ___________
-SUBTOTAL MEMBERSHIPS............................... $  353,400
-```
-
-**Member Growth Strategy:**
-- Year 1: 455 total members (100 voting + 150 supporting + 40 family + 150 student + 15 corporate)
-- Year 2: 570 total members (25% growth)
-- Year 3: 675 total members (18% growth)
-
----
-
-#### **CLASSES & COURSES: $198,000**
-
-**STAFFING CAPACITY:**
-- 5 FTE Maker Educators @ 75% instructional time = 3.75 FTE teaching capacity
-- 25% of time dedicated to fabrication services
-- 3 classroom spaces (max 15 students each)
-- Operating 6 days/week (Tuesday-Sunday)
-
-**REVENUE SHARING MODEL:**
-- Educators receive 30% of gross class/course revenue
-- Incentivizes quality instruction and student retention
-- Enables contractor/part-time educator model
-- Could evolve to 1 FTE + 2 PT educators per specialty
-
-**ONE-TIME WORKSHOPS (Under $100 including supplies):**
-
-```
-Youth One-Time Workshops (90 sessions/year)
-  Saturday mornings, after-school sessions
-  60-90 minutes, 8-12 students
-  Topics: 3D printing basics, laser cutting intro,
-    robotics sampler, woodworking fundamentals
-  Price: $45-$75 per student
-  Revenue: 90 sessions × 10 avg × $60............... $   54,000
-  Educator share (30%)............................. $  (16,200)
-  Net to Hub....................................... $   37,800
-
-Adult One-Time Workshops (72 sessions/year)
-  Weekend and evening offerings
-  90 minutes, 10-15 students
-  Topics: CNC basics, electronics intro, Arduino 101,
-    vinyl cutting, welding fundamentals
-  Price: $65-$95 per student
-  Revenue: 72 sessions × 12 avg × $80.............. $   69,120
-  Educator share (30%)............................. $  (20,736)
-  Net to Hub....................................... $   48,384
-
-Special Events Workshops (24 sessions/year)
-  Date nights, parent-child, team building
-  2 hours, 8-12 participants
-  Topics: Custom projects, collaborative builds
-  Price: $85-$100 per person
-  Revenue: 24 sessions × 10 avg × $90.............. $   21,600
-  Educator share (30%)............................. $   (6,480)
-  Net to Hub....................................... $   15,120
-                                                    ___________
-ONE-TIME WORKSHOP NET TO HUB....................... $  101,304
-```
-
-**MULTI-WEEK COURSES ($200+):**
-
-```
-Youth Multi-Week Courses (32 courses/year)
-  4-6 week sessions, quarterly schedule
-  Weekly 90-minute classes, 8-12 students
-  Topics: Robotics Series (6wks), Game Design (4wks),
-    Maker Skills Academy (6wks), 3D Modeling (4wks)
-  Price: $200-$280 per student (6-week @ $240 avg)
-  Revenue: 32 courses × 10 avg × $240.............. $   76,800
-  Educator share (30%)............................. $  (23,040)
-  Net to Hub....................................... $   53,760
-
-Adult Multi-Week Courses (28 courses/year)
-  4-6 week sessions, quarterly schedule  
-  Weekly 2-hour classes, 10-15 students
-  Topics: Woodworking Fundamentals (6wks),
-    Electronics & Arduino (6wks), CNC Mastery (4wks),
-    Welding Certification (6wks)
-  Price: $240-$320 per student (6-week @ $280 avg)
-  Revenue: 28 courses × 12 avg × $280.............. $   94,080
-  Educator share (30%)............................. $  (28,224)
-  Net to Hub....................................... $   65,856
-
-Summer Youth Camps (10 weeks)
-  Full-day intensive camps (M-F, 9am-3pm)
-  15 students max per week
-  Topics: Maker Camp, Robotics Camp, Design Camp
-  Price: $350-$450 per week
-  Revenue: 10 weeks × 15 avg × $400................ $   60,000
-  Educator share (30%)............................. $  (18,000)
-  Net to Hub....................................... $   42,000
-                                                    ___________
-MULTI-WEEK COURSE NET TO HUB....................... $  161,616
-```
-
-**SCHOOL PARTNERSHIPS & FIELD TRIPS:**
-
-```
-School Field Trips (100 visits/year)
-  2-hour hands-on sessions
-  25 students per visit
-  Price: $300 per visit (group rate)
-  Revenue: 100 × $300.............................. $   30,000
-  Educator share (30%)............................. $   (9,000)
-  Net to Hub....................................... $   21,000
-  *Educators compensated for school day availability*
-                                                    ___________
-TOTAL CLASSES & COURSES REVENUE.................... $  411,720
-TOTAL EDUCATOR SHARE (30%)......................... $ (121,680)
-                                                    ___________
-NET CLASSES & COURSES TO HUB....................... $  290,040
-```
-
-**CLASSROOM UTILIZATION:**
-- 3 rooms × 6 days × 4 sessions/day = 72 session slots/week
-- Annual capacity: ~3,700 session slots
-- Projected usage: ~350 sessions/year = 9.5% utilization
-- Significant growth capacity available
-
-**REVENUE SHARING BENEFITS:**
-- Attracts high-quality educators (base + 30% = competitive pay)
-- Aligns incentives (educators motivated to fill classes)
-- Enables flexible staffing (FT + PT + contractor mix)
-- Reduces risk (lower revenue = lower labor cost)
-- Supports entrepreneurial educators building curriculum
-
-**Key Insight:** School field trips are HIGH-MARGIN revenue ($30K from 100 visits)
-
----
-
-#### **EQUIPMENT SERVICES & FABRICATION: $105,000**
-
-**FABRICATION CAPACITY:**
-- 5 FTE Maker Educators @ 25% time = 1.25 FTE fabrication capacity
-- ~2,500 hours/year available for client work
-- Average billable rate: $50-$75/hour (materials extra)
-- Educators receive 20% of fabrication revenue (lower than classes due to equipment overhead)
-
-**This is the "maker business" revenue stream:**
-
-```
-3D Printing Services............................... $   18,000
-  *Prototyping, replacement parts, custom items*
-  *50-100 projects/year @ $180-$350 avg*
-  *Educator compensation (20%)..................... $   (3,600)
-  *Net to Hub...................................... $   14,400
-
-Laser Cutting & Engraving Services................. $   22,000
-  *Signage, acrylic products, custom cutting*
-  *100-150 projects/year @ $150-$220 avg*
-  *Educator compensation (20%)..................... $   (4,400)
-  *Net to Hub...................................... $   17,600
-
-CNC Milling Services............................... $   15,000
-  *Precision milling, custom parts, prototypes*
-  *30-50 projects/year @ $300-$500 avg*
-  *Educator compensation (20%)..................... $   (3,000)
-  *Net to Hub...................................... $   12,000
-
-Product Prototyping & Development.................. $   25,000
-  *Help entrepreneurs develop products*
-  *15-25 intensive projects/year @ $1,000-$1,500*
-  *Educator compensation (20%)..................... $   (5,000)
-  *Net to Hub...................................... $   20,000
-
-Custom Fabrication Projects........................ $   35,000
-  *Build custom furniture, art installations*
-  *20-30 projects/year @ $1,200-$1,800 avg*
-  *Educator compensation (20%)..................... $   (7,000)
-  *Net to Hub...................................... $   28,000
-
-Welding & Metal Fabrication........................ $   12,000
-  *Custom metalwork, repairs, installations*
-  *25-40 projects/year @ $300-$480 avg*
-  *Educator compensation (20%)..................... $   (2,400)
-  *Net to Hub...................................... $    9,600
-
-Equipment Hourly Rental (non-members).............. $    8,000
-  *Supervised equipment use, $25-$75/hour*
-  *200 hours/year average*
-  *No educator share (member services staff)....... $        0
-  *Net to Hub...................................... $    8,000
-                                                    ___________
-GROSS FABRICATION REVENUE.......................... $  135,000
-TOTAL EDUCATOR COMPENSATION (20%).................. $  (25,400)
-                                                    ___________
-NET FABRICATION SERVICES TO HUB.................... $  109,600
-```
-
-**FABRICATION GROWTH STRATEGY:**
-- Partner with local businesses for fabrication needs
-- Offer rapid prototyping for startups & accelerators
-- Build portfolio showcasing complex projects
-- Develop corporate relationships (engineering firms, architects)
-- Competitive pricing undercuts commercial shops initially
-- Marketing to UALR, ASU, Philander Smith for student projects
-
-**EDUCATOR FABRICATION INCENTIVE:**
-- 20% revenue share motivates quality work & client service
-- Builds expertise in commercial fabrication
-- Creates pathway for educators to develop specializations
-- Lower share than classes due to higher equipment costs
-
-**Growth Strategy:**
-- Partner with local businesses for fabrication needs
-- Offer rapid prototyping for startups
-- Build reputation as regional maker services provider
-
----
-
-#### **FACILITY & SPACE RENTAL: $30,000**
-
-```
-Event Space Rental (40 events @ $500).............. $   20,000
-  *Weddings, corporate events, community meetings*
-
-Private Workspace Rental........................... $    6,000
-  *Dedicated desk/bench for businesses*
-
-Meeting Room Rental................................ $    4,000
-  *Hourly rental for off-site meetings*
-                                                    ___________
-SUBTOTAL FACILITY RENTAL........................... $   30,000
-```
-
----
-
-#### **OTHER EARNED INCOME: $16,000**
-
-```
-Maker Supplies/Materials Resale.................... $    8,000
-  *Sell filament, wood, electronics at markup*
-
-Tool Library/Checkout Fees......................... $    3,000
-  *Members check out specialized tools*
-
-Certification Programs............................. $    5,000
-  *Safety certs, equipment certs, badges*
-                                                    ___________
-SUBTOTAL OTHER EARNED INCOME....................... $   16,000
-```
-
----
-
-### **BASELINE SUPPORT (Non-Grant): $220,000 (35% of core budget)**
-
-**Unrestricted support for core operations:**
-
-```
-City of North Little Rock (annual baseline)........ $   50,000
-  *Negotiated as part of acquisition support*
-
-Pulaski County..................................... $   15,000
-  *Economic development support*
-
-Community Foundations (unrestricted)............... $   35,000
-  *Arkansas Community Foundation, others*
-
-Corporate Sponsorships (unrestricted).............. $   40,000
-  *Dassault Systemes, Tyson, local businesses*
-
-Individual Donations (annual fund)................. $   60,000
-  *200 donors @ $300 average*
-
-Special Events (fundraisers)....................... $   20,000
-  *Annual gala, maker faire, etc.*
-                                                    ___________
-TOTAL BASELINE SUPPORT............................. $  220,000
-```
-
-**Key Feature:** These are UNRESTRICTED funds supporting core operations, not project-specific grants.
-
----
-
-### **TOTAL CORE OPERATIONS REVENUE: $973,040**
-
-```
-Earned Income...................................... $  753,040  (77%)
-Baseline Support................................... $  220,000  (23%)
-                                                    ___________
-TOTAL CORE REVENUE................................. $  973,040
-
-CORE BUDGET........................................ $  647,335
-                                                    ___________
-CORE OPERATIONS NET (before grant overhead)........ $ 325,705
-```
-
-**Note:** Core operations are now highly profitable from earned income alone, with $325K+ annual surplus
-
----
-
-## **SECTION 5: GRANT-FUNDED PROGRAMS (SEPARATE TRACKING)**
-
-### **PHILOSOPHY:**
-
-Each grant-funded program is a **SEPARATE BUSINESS UNIT** with:
-- Dedicated staff (hired specifically for that program)
-- Program-specific expenses
-- Separate accounting
-- Contribution to core overhead (typically 10-15%)
-
-**If a grant ends, the Hub continues - just with fewer programs.**
-
-### **EXAMPLE GRANT PROGRAMS:**
-
-#### **1. SKILLS TO LAUNCH (Arkansas Career Readiness)**
-
-```
-Grant Revenue...................................... $   20,000
-  Dedicated Staff (PT instructor).................. $   15,000
-  Program Expenses (materials, supplies)........... $    4,000
-  Overhead Contribution to Core.................... $    1,000
-```
-
-**Separately Tracked:** This instructor is NOT in core staffing budget
-
----
-
-#### **2. BEST BUY TEEN TECH CENTER**
-
-```
-Grant Revenue...................................... $   50,000
-  Dedicated Staff (Program Coordinator)............ $   35,000
-  Program Expenses (equipment, events)............. $   11,000
-  Overhead Contribution to Core.................... $    4,000
-```
-
----
-
-#### **3. MICROSOFT TECHSPARK ARKANSAS**
-
-```
-Grant Revenue...................................... $   50,000
-  Dedicated Staff (STEAM Educator)................. $   30,000
-  Program Expenses (curriculum, materials)......... $   15,000
-  Overhead Contribution to Core.................... $    5,000
-```
-
----
-
-#### **4. WALTON FAMILY FOUNDATION (Youth Programs)**
-
-```
-Grant Revenue...................................... $   75,000
-  Dedicated Staff (Youth Program Director)......... $   50,000
-  Program Expenses (camps, field trips)............ $   20,000
-  Overhead Contribution to Core.................... $    5,000
-```
-
----
-
-#### **5. OTHER COMPETITIVE GRANTS**
-
-```
-Estimated Additional Grant Revenue................. $   80,000
-  Dedicated Staff................................... $   50,000
-  Program Expenses.................................. $   25,000
-  Overhead Contribution to Core.................... $    5,000
-```
-
----
-
-### **TOTAL GRANT-FUNDED PROGRAMS:**
-
-```
-Total Grant Revenue................................ $  275,000
-  Total Grant-Specific Staff (3-4 FTE)............ $  180,000
-  Total Program Expenses........................... $   75,000
-  Total Overhead to Core........................... $   20,000
-                                                    ___________
-Net Grant Programs................................. $   20,000
-```
-
-**Key Insight:**
-- Grant programs generate $20K overhead to help cover core operations
-- Core operations now generate $326K surplus even without grant overhead
-- Total Hub is highly profitable with diversified revenue streams
-
----
-
-## **SECTION 6: COMBINED FINANCIALS**
-
-### **TOTAL INNOVATION HUB BUDGET:**
-
-```
-REVENUE
-  Core Earned Income............................... $  753,040
-  Core Baseline Support............................ $  220,000
-  Grant Programs................................... $  275,000
-  Grant Overhead Contribution...................... $   20,000
-                                                    ___________
-TOTAL REVENUE...................................... $1,268,040
-
-EXPENSES
-  Core Personnel (6 FTE)........................... $  406,443
-  Educator Revenue Share (Classes)................. $  121,680
-  Educator Revenue Share (Fabrication)............. $   25,400
-  Core Operations.................................. $  160,000
-  Core Debt Service................................ $   80,892
-  Grant Program Staff (3-4 FTE).................... $  180,000
-  Grant Program Expenses........................... $   75,000
-                                                    ___________
-TOTAL EXPENSES..................................... $1,049,415
-
-NET INCOME......................................... $  218,625
-```
-
-### **KEY METRICS:**
-
-- **Total FTE:** 9-10 (6 core + 3-4 grant-funded)
-- **Earned Income as % of Total:** 59%
-- **Core Ops Coverage by Earned Income:** 116%
-- **Grant Dependency:** Very Low (core ops highly sustainable without grants)
-- **Financial Sustainability:** EXCELLENT
-- **Educator Compensation Model:** Base salary + 30% class revenue + 20% fabrication revenue
-
----
-
-## **SECTION 7: 3-YEAR FINANCIAL PROJECTION**
-
-### **CONSERVATIVE GROWTH ASSUMPTIONS:**
-
-- Membership growth: 20% Year 2, 15% Year 3
-- Class revenue growth: 15% annually
-- Fabrication revenue growth: 20% annually (reputation building)
-- Baseline support: Stable with 3% inflation adjustments
-- Grant programs: Conservative (may grow more)
-- Expenses: 3% inflation annually
-
-| **Line Item** | **Year 1** | **Year 2** | **Year 3** |
-|--------------|-----------|-----------|-----------|
-| **CORE REVENUE** |
-| Earned Income | $753,040 | $880,000 | $1,020,000 |
-| Baseline Support | $220,000 | $226,600 | $233,400 |
-| **Subtotal Core** | **$973,040** | **$1,106,600** | **$1,253,400** |
-| **GRANT PROGRAMS** |
-| Grant Revenue | $275,000 | $300,000 | $325,000 |
-| Overhead Contribution | $20,000 | $22,000 | $24,000 |
-| **Subtotal Grants** | **$295,000** | **$322,000** | **$349,000** |
-| **TOTAL REVENUE** | **$1,268,040** | **$1,428,600** | **$1,602,400** |
-| | | | |
-| **CORE EXPENSES** |
-| Core Personnel | $406,443 | $418,636 | $431,195 |
-| Educator Revenue Share - Classes | $121,680 | $140,000 | $160,000 |
-| Educator Revenue Share - Fabrication | $25,400 | $29,000 | $33,000 |
-| Core Operations | $160,000 | $164,800 | $169,744 |
-| Debt Service | $80,892 | $80,892 | $80,892 |
-| **Subtotal Core** | **$794,415** | **$833,328** | **$874,831** |
-| **GRANT EXPENSES** |
-| Grant Staff | $180,000 | $195,000 | $210,000 |
-| Grant Programs | $75,000 | $82,500 | $90,000 |
-| **Subtotal Grants** | **$255,000** | **$277,500** | **$300,000** |
-| **TOTAL EXPENSES** | **$1,049,415** | **$1,110,828** | **$1,174,831** |
-| | | | |
-| **NET INCOME** | **$218,625** | **$317,772** | **$427,569** |
-| | | | |
-| **CASH RESERVES** |
-| Beginning Balance | $50,000 | $268,625 | $586,397 |
-| Net Income | $218,625 | $317,772 | $427,569 |
-| **Ending Balance** | **$268,625** | **$586,397** | **$1,013,966** |
-
-**Strong growth trajectory with building reserves for capital improvements**
-
----
-
-## **SECTION 8: VOLUNTEER IMPACT ON FINANCIALS**
-
-### **VOLUNTEER LABOR VALUE:**
-
-**Front Desk Coverage:**
-- 1 FTE Member Services & Outreach = $40,000/year
-- With volunteers covering 50% of front desk shifts = equivalent to $20,000 staff position
-- Members earn membership credits = $20,000 in "scholarships"
-
-**Net Effect:**
-- Actual cash savings: Significant (1 FTE vs 2 FTE)
-- Member benefit: Massive (effective $20K in reduced membership fees)
-- Community building: Priceless (members invest labor, build ownership)
-
-**Other Volunteer Benefits:**
-- Equipment maintenance: $10,000 value
-- Teaching assistants: $8,000 value
-- Event support: $5,000 value
-- Marketing/admin: $7,000 value
-
-**Total Volunteer Labor Value: $50,000/year**
-
-**Volunteer Model Enables:**
-- Lower membership dues (affordable for more people)
-- Deeper member engagement and ownership
-- Skills development for volunteers
-- Sustainable staffing model with 5 Maker Educators
-- True cooperative culture
-
----
-
-## **SECTION 9: PROPERTY ACQUISITION FINANCING**
-
-### **PURCHASE PRICE: $1,250,000**
-
-**Capital Stack:**
-
-```
-CAPITAL CAMPAIGN (Equity).......................... $  300,000  (24%)
-  Lead gifts ($25K+)............................... $  100,000
-  Major gifts ($5K-$25K)........................... $  150,000
-  Broad community (<$5K)........................... $   50,000
-
-CITY OF NORTH LITTLE ROCK (Grant)................. $   50,000  (4%)
-  Economic development support
-  One-time acquisition grant
-
-CDFI FIRST MORTGAGE................................ $  900,000  (72%)
-  Interest Rate: 6.5%
-  Term: 25 years
-  Monthly Payment: $6,741
-  Annual Debt Service: $80,892
-                                                    ___________
-TOTAL ACQUISITION FINANCING........................ $1,250,000
-```
-
-**Debt Service Coverage Ratio:**
-- Core Revenue / Debt Service = $973,040 / $80,892 = **12.0x** (Outstanding)
-- Total Revenue / Debt Service = $1,268,040 / $80,892 = **15.7x** (Exceptional)
-
----
-
-## **SECTION 10: WHY COOPERATIVE STRUCTURE WORKS**
-
-### **COMPARED TO TRADITIONAL NONPROFIT:**
-
-| **Factor** | **Traditional Nonprofit** | **Cooperative** |
-|-----------|--------------------------|-----------------|
-| **Ownership** | Board (disconnected) | Members (users) |
-| **Governance** | Top-down | Democratic |
-| **Sustainability** | Grant-dependent | Earned income focused |
-| **Engagement** | Passive users | Active owners |
-| **Labor** | All paid staff | Hybrid paid + volunteer |
-| **Mission Drift** | Common (follows grants) | Rare (member-controlled) |
-| **Accountability** | To board/funders | To member-owners |
-| **Long-term Viability** | Depends on grants | Built on member commitment |
-
-### **COOPERATIVE ADVANTAGES FOR THE HUB:**
-
-1. **Financial Sustainability**
-   - 64% of core budget from earned income (member dues, services)
-   - Not dependent on any single grant
-   - Members have skin in the game
-
-2. **Democratic Control**
-   - Voting members elect board
-   - Major decisions require member approval
-   - Community truly owns the space
-
-3. **Volunteer Workforce**
-   - Members contribute labor for reduced dues
-   - Builds ownership and community
-   - Sustainable staffing model
-
-4. **Mission Protection**
-   - Members ensure mission continuity
-   - Can't be sold or redirected by board alone
-   - Federal compliance guaranteed by member-owners
-
-5. **Equity and Access**
-   - Tiered membership (sliding scale possible)
-   - Student discounts
-   - Volunteer credit system
-   - Serves entire community, not just wealthy
-
----
+
+| Component | Amount |
+|-----------|--------|
+| Base Salary | $35,000 |
+| Class Revenue (teaches 40 classes @ avg $500 net = $20K) | $6,000 |
+| Fabrication Revenue (manages $40K in projects @ 20%) | $8,000 |
+| **TOTAL ANNUAL COMPENSATION** | **$49,000** |
+
+If an educator is exceptional and drives more classes/projects, they earn more. If slow periods occur, base salary provides security.
+
+  
+
+#### **FACILITIES & OPERATIONS: $230,892**
+
+| Category | Annual Cost | Notes |
+|----------|-------------|-------|
+| **Occupancy** | | |
+| Property taxes (exempt as 501c3) | $0 | |
+| Insurance (property, liability, D&O) | $18,000 | |
+| Utilities (electric, water, internet, phones) | $30,000 | |
+| **Maintenance & Supplies** | | |
+| Building maintenance & repairs | $15,000 | |
+| Equipment maintenance & repairs | $20,000 | |
+| Shop supplies (materials, consumables) | $25,000 | |
+| **Technology & Software** | | |
+| Membership management software | $3,600 | $300/month |
+| Accounting/payroll software | $2,400 | $200/month |
+| Website hosting & tools | $1,200 | $100/month |
+| Security system | $1,800 | $150/month |
+| **Marketing & Outreach** | | |
+| Marketing materials, advertising | $8,000 | |
+| Events & community outreach | $5,000 | |
+| **Professional Services** | | |
+| Legal (compliance, contracts) | $5,000 | |
+| Accounting/bookkeeping | $8,000 | |
+| **Debt Service (Property Loan)** | | |
+| Mortgage payment (15-year, $500K @ 6%) | $50,692 | $4,224/month |
+| **Other Operating** | | |
+| Office supplies & postage | $3,000 | |
+| Training & professional development | $5,000 | |
+| Equipment purchases (small tools) | $10,000 | |
+| Contingency/miscellaneous | $19,200 | 3% buffer |
+| **TOTAL FACILITIES & OPERATIONS** | **$230,892** | |
+
+  
+
+### **TOTAL CORE OPERATIONS BUDGET:**
+
+| Category | Amount |
+|----------|--------|
+| Personnel (6 FTE base + revenue share) | $406,443 |
+| Facilities & Operations | $230,892 |
+| **TOTAL CORE BUDGET** | **$637,335** |
+
+  
+
+## **SECTION 4: EARNED INCOME PROJECTIONS**
+
+### **MEMBERSHIP REVENUE: $465,600 (Year 1)**
+
+**Conservative Membership Targets:**
+
+| Membership Type | Number | Monthly Fee | Annual Revenue |
+|----------------|--------|-------------|----------------|
+| Voting Members | 100 | $80 | $96,000 |
+| Individual Members | 200 | $50 | $120,000 |
+| Family Members | 50 | $80 | $48,000 |
+| Student Members | 75 | $25 | $22,500 |
+| Corporate Members | 10 | $400 | $48,000 |
+| Day Passes (annual) | 1,500 passes | — | $30,000 |
+| **SUBTOTAL** | **435 members** | | **$364,500** |
+| Volunteer Credits Applied | | | ($50,000) |
+| **NET MEMBERSHIP REVENUE** | | | **$314,500** |
+
+**Growth Trajectory:**
+
+| Year | Total Members | Net Revenue |
+|------|--------------|-------------|
+| Year 1 | 435 | $314,500 |
+| Year 2 | 550 | $425,000 |
+| Year 3 | 650 | $515,000 |
+
+  
+
+### **CLASS REVENUE: $217,540 (Year 1)**
+
+**Class Programming Model:**
+
+| Category | Details | Annual Revenue |
+|----------|---------|----------------|
+| Weekend Workshops | 80 classes @ 12 students @ $65 avg | $62,400 |
+| Weeknight Classes | 120 classes @ 8 students @ $50 avg | $48,000 |
+| Kids/Teen Programs | 60 sessions @ 15 students @ $40 | $36,000 |
+| Specialty Intensives | 20 intensives @ 8 students @ $150 | $24,000 |
+| School Partnerships | 40 sessions @ variable | $30,000 |
+| Private Instruction | 200 hours @ $85/hour | $17,000 |
+| **GROSS CLASS REVENUE** | | **$217,400** |
+| Instructor Revenue Share (30%) | | ($65,220) |
+| Materials/Supplies Cost | | ($10,870) |
+| **NET CLASS REVENUE TO HUB** | | **$141,310** |
+
+**Educator earns the 30% share ($65,220 ÷ 5 educators = $13,044 per educator annually)**
+
+  
+
+### **FABRICATION SERVICES: $70,000 (Year 1)**
+
+**Revenue-Generating Services:**
+
+| Service Category | Details | Annual Revenue |
+|-----------------|---------|----------------|
+| Laser Cutting/Engraving | Small businesses, artists, events | $25,000 |
+| 3D Printing Services | Prototyping, custom parts | $15,000 |
+| CNC Routing | Signs, furniture, architectural | $12,000 |
+| Vinyl Cutting | Decals, signage, apparel | $8,000 |
+| Consultation/Design | Product development support | $10,000 |
+| **GROSS FABRICATION REVENUE** | | **$70,000** |
+| Educator Revenue Share (20%) | | ($14,000) |
+| Materials Cost (included in supplies) | | $0 |
+| **NET FABRICATION REVENUE TO HUB** | | **$56,000** |
+
+**Educator earns the 20% share ($14,000 ÷ 5 educators = $2,800 per educator annually)**
+
+  
+
+### **SPACE RENTAL: $6,000 (Year 1)**
+
+| Rental Type | Details | Annual Revenue |
+|------------|---------|----------------|
+| Event Space Rental | 12 events @ $500 | $6,000 |
+
+  
+
+### **TOTAL EARNED INCOME: $517,810 (Year 1)**
+
+| Revenue Source | Amount |
+|---------------|--------|
+| Membership Revenue (net) | $314,500 |
+| Class Revenue (net to Hub) | $141,310 |
+| Fabrication Services (net to Hub) | $56,000 |
+| Space Rental | $6,000 |
+| **TOTAL EARNED INCOME** | **$517,810** |
+
+**Core Operations Budget:** $637,335  
+**Earned Income Coverage:** 81% (Year 1)
+
+**Gap covered by:** Baseline foundation support ($50K) + Annual Fund ($70K) = $120,000
+
+  
+
+## **SECTION 5: BASELINE SUPPORT & ANNUAL FUND**
+
+### **BASELINE FOUNDATION SUPPORT: $50,000/year**
+
+**Target:** 2-3 local foundations providing unrestricted operating support
+
+**Rationale:**
+- Proven track record (71,000 served 2014-2025)
+- Community ownership model
+- Sustainable earned income base (81% self-funded)
+- Critical infrastructure for region
+- Federal compliance commitment
+
+**Potential Funders:**
+- Winthrop Rockefeller Foundation
+- Walton Family Foundation
+- Arkansas Community Foundation
+- Local family foundations
+
+  
+
+### **ANNUAL FUND: $70,000/year**
+
+**Individual Giving Program:**
+
+| Donor Level | Number | Gift Size | Annual Total |
+|------------|--------|-----------|--------------|
+| Founding Circle | 10 | $2,500 | $25,000 |
+| Makers Circle | 20 | $1,000 | $20,000 |
+| Supporters | 50 | $500 | $25,000 |
+| **TOTAL ANNUAL FUND** | **80 donors** | | **$70,000** |
+
+**Fundraising Strategy:**
+- Member appeals (2x/year)
+- End-of-year campaign
+- Donor recognition program
+- Special events (maker faire, open houses)
+- Legacy giving program
+
+  
+
+### **TOTAL BASELINE SUPPORT: $120,000**
+
+| Source | Amount |
+|--------|--------|
+| Foundation Support | $50,000 |
+| Annual Fund | $70,000 |
+| **TOTAL** | **$120,000** |
+
+  
+
+## **SECTION 6: GRANT-FUNDED PROGRAMS (ADDITIVE)**
+
+### **PHILOSOPHY: GRANTS ARE ADDITIVE, NOT ESSENTIAL**
+
+**Critical Design Feature:**
+- Core operations (above) are **fully sustainable** without grants
+- Grants fund **their own dedicated staff** and program expenses
+- If grants disappear, **core Hub continues** operating
+- Grants allow us to **scale programming** beyond core
+
+  
+
+### **YEAR 1 GRANT TARGETS: $235,230**
+
+#### **Skills to Launch (SBA/AEDC): $150,000**
+
+| Budget Item | Amount | Notes |
+|------------|--------|-------|
+| Program Director (1 FTE) | $65,000 | Grant-funded position |
+| Instructors (2 PT) | $40,000 | Grant-funded positions |
+| Materials & Supplies | $15,000 | |
+| Marketing & Outreach | $10,000 | |
+| Overhead Contribution (15%) | $20,000 | Supports core infrastructure |
+| **TOTAL** | **$150,000** | |
+
+**Program Impact:**
+- 200 entrepreneurs trained
+- 50 businesses launched
+- 100 jobs created/retained
+
+  
+
+#### **Best Buy Teen Tech Center: $50,000**
+
+| Budget Item | Amount | Notes |
+|------------|--------|-------|
+| Teen Program Coordinator (0.5 FTE) | $25,000 | Grant-funded position |
+| Teen Instructors (PT) | $10,000 | Grant-funded positions |
+| Technology & Equipment | $8,000 | |
+| Program Materials | $4,500 | |
+| Overhead Contribution (5%) | $2,500 | Supports core infrastructure |
+| **TOTAL** | **$50,000** | |
+
+**Program Impact:**
+- 500 teens served
+- STEM skill development
+- Career pathway exposure
+
+  
+
+#### **Microsoft TechSpark: $35,230**
+
+| Budget Item | Amount | Notes |
+|------------|--------|-------|
+| Digital Literacy Coordinator (0.4 FTE) | $20,000 | Grant-funded position |
+| Training Materials & Software | $8,000 | |
+| Community Outreach | $5,000 | |
+| Overhead Contribution (6.5%) | $2,230 | Supports core infrastructure |
+| **TOTAL** | **$35,230** | |
+
+**Program Impact:**
+- 300 adults trained in digital skills
+- Job readiness programs
+- Community technology access
+
+  
+
+### **GRANT PROGRAM TOTAL: $235,230**
+
+| Program | Total Budget | Overhead Contribution | Net Program Cost |
+|---------|-------------|----------------------|------------------|
+| Skills to Launch | $150,000 | $20,000 | $130,000 |
+| Best Buy Teen Tech | $50,000 | $2,500 | $47,500 |
+| Microsoft TechSpark | $35,230 | $2,230 | $33,000 |
+| **TOTAL** | **$235,230** | **$24,730** | **$210,500** |
+
+**Grant-Funded Staff:** 3.9 FTE (NOT part of core budget)
+
+**Overhead Contribution to Core:** $24,730 (helps reduce baseline support need)
+
+  
+
+## **SECTION 7: YEAR 1 COMPLETE FINANCIAL PICTURE**
+
+### **TOTAL REVENUE: $873,040**
+
+| Revenue Source | Amount | % of Total |
+|---------------|--------|-----------|
+| **EARNED INCOME** | | |
+| Membership Revenue | $314,500 | 36% |
+| Class Revenue (net to Hub) | $141,310 | 16% |
+| Fabrication Services (net to Hub) | $56,000 | 6% |
+| Space Rental | $6,000 | 1% |
+| **Earned Income Subtotal** | **$517,810** | **59%** |
+| **CONTRIBUTED INCOME** | | |
+| Foundation Support | $50,000 | 6% |
+| Annual Fund | $70,000 | 8% |
+| **Baseline Support Subtotal** | **$120,000** | **14%** |
+| **GRANT PROGRAMS** | | |
+| Skills to Launch | $150,000 | 17% |
+| Best Buy Teen Tech | $50,000 | 6% |
+| Microsoft TechSpark | $35,230 | 4% |
+| **Grant Programs Subtotal** | **$235,230** | **27%** |
+| **TOTAL REVENUE** | **$873,040** | **100%** |
+
+  
+
+### **TOTAL EXPENSES: $872,565**
+
+| Expense Category | Amount | % of Total |
+|-----------------|--------|-----------|
+| **CORE OPERATIONS** | | |
+| Core Personnel | $406,443 | 47% |
+| Facilities & Operations | $230,892 | 26% |
+| **Core Subtotal** | **$637,335** | **73%** |
+| **GRANT PROGRAMS** | | |
+| Skills to Launch (net) | $130,000 | 15% |
+| Best Buy Teen Tech (net) | $47,500 | 5% |
+| Microsoft TechSpark (net) | $33,000 | 4% |
+| **Grant Programs Subtotal** | **$210,500** | **24%** |
+| **Overhead from Grants** | **$24,730** | **3%** |
+| **TOTAL EXPENSES** | **$872,565** | **100%** |
+
+  
+
+### **YEAR 1 FINANCIAL SUMMARY:**
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $873,040 |
+| Total Expenses | $872,565 |
+| **NET INCOME** | **$475** |
+| | |
+| Core Operations Budget | $637,335 |
+| Core Earned Income | $517,810 |
+| Core Earned Income Coverage | **81%** |
+| Baseline Support Needed | $120,000 |
+| Grant Overhead Contribution | $24,730 |
+| **Net Baseline Support Needed** | **$95,270** |
+
+**SUSTAINABILITY ANALYSIS:**
+
+✓ **Core operations 81% self-funded** from memberships, classes, fabrication  
+✓ **Baseline support gap of only $95K** (covered by foundation + annual fund)  
+✓ **Grant programs fully pay for themselves** + contribute $24K overhead  
+✓ **If all grants disappear,** core Hub continues with minimal adjustment  
+✓ **Year 2-3 projections:** 90%+ core self-funding as membership grows
+
+  
+
+## **SECTION 8: PROPERTY ACQUISITION PLAN**
+
+### **ACQUISITION SCENARIO: PURCHASE FROM WINROCK**
+
+**Proposed Purchase Price:** $500,000  
+**Approach:** Friendly acquisition as "mission continuity" vs. open market sale
+
+**Property Details:**
+- Address: 201 E. Broadway, North Little Rock, AR
+- Size: ~20,000 sq ft
+- Current Owner: Winrock International (acquired from city for $1 in 2014)
+- Federal Requirement: Must maintain EDA-compliant use through 2035
+
+  
+
+### **CAPITAL REQUIRED: $800,000**
+
+| Use of Funds | Amount |
+|-------------|--------|
+| Property Purchase | $500,000 |
+| Closing Costs (3%) | $15,000 |
+| Equipment Refresh/Upgrades | $150,000 |
+| Working Capital (6 months) | $135,000 |
+| **TOTAL CAPITAL NEED** | **$800,000** |
+
+  
+
+### **FINANCING STRUCTURE:**
+
+| Source | Amount | Terms |
+|--------|--------|-------|
+| **Member Capital Campaign** | $300,000 | Founding member buy-in, major gifts |
+| **CDFI Loan** | $500,000 | 15-year, 6% interest, NMTC eligible |
+| **TOTAL** | **$800,000** | |
+
+  
+
+### **MEMBER CAPITAL CAMPAIGN: $300,000**
+
+**Founding Member Campaign (Pre-Opening):**
+
+| Level | Number | Gift | Benefits | Total |
+|-------|--------|------|----------|-------|
+| **Visionary Founders** | 5 | $25,000 | Lifetime voting membership, naming rights, founder board seat | $125,000 |
+| **Pioneer Founders** | 10 | $10,000 | Lifetime voting membership, major recognition | $100,000 |
+| **Builder Founders** | 25 | $2,500 | 5-year voting membership, founding plaque | $62,500 |
+| **Community Founders** | 100 | $125 | 1-year founding membership discount | $12,500 |
+| **TOTAL** | **140 founding members** | | | **$300,000** |
+
+**Campaign Strategy:**
+- Launch before acquisition closes
+- Pre-sell memberships to demonstrate demand
+- Major gift solicitation from business leaders
+- Community crowdfunding component
+- Corporate sponsorship packages
+
+  
+
+### **CDFI LOAN: $500,000**
+
+**Lender Profile:** Community Development Financial Institution (CDFI)
+
+**Ideal Lenders:**
+- Southern Bancorp (Arkansas-based CDFI)
+- Craft3 (Pacific Northwest CDFI, maker space experience)
+- Community Development Loan Fund (similar projects funded)
+
+**Loan Terms:**
+
+| Term | Details |
+|------|---------|
+| Amount | $500,000 |
+| Interest Rate | 6.0% |
+| Term | 15 years |
+| Monthly Payment | $4,224 |
+| Annual Debt Service | $50,692 |
+| Collateral | Property + equipment |
+| Guarantees | Board members (limited) |
+
+**CDFI Advantages:**
+- Mission-aligned lenders
+- Flexible underwriting (look at social impact)
+- New Markets Tax Credit (NMTC) eligibility
+- Patient capital
+- Technical assistance
+
+  
+
+### **LOAN UNDERWRITING ANALYSIS:**
+
+**Debt Service Coverage Ratio (DSCR):**
+
+| Metric | Year 1 | Year 2 | Year 3 |
+|--------|--------|--------|--------|
+| Net Operating Income | $95,475 | $185,000 | $275,000 |
+| Annual Debt Service | $50,692 | $50,692 | $50,692 |
+| **DSCR** | **1.88x** | **3.65x** | **5.42x** |
+
+**Strong DSCR** (1.88x in Year 1, 3.65x in Year 2) demonstrates ability to repay loan.
+
+  
+
+## **SECTION 9: COMPLIANCE & FEDERAL REQUIREMENTS**
+
+### **EDA COMPLIANCE (2014 GRANT - EXPIRES 2035)**
+
+**Original Federal Investment:** $1,000,000 (Economic Development Administration)
+
+**Use Restriction:** Property must remain in use for economic development and community benefit through **2035** (21-year useful life requirement).
+
+**Compliance Requirements:**
+
+| Requirement | Cooperative Approach |
+|------------|---------------------|
+| Community economic development use | ✓ Entrepreneurship training, fabrication services, job skills |
+| Public access | ✓ Open to all community members (sliding scale pricing) |
+| Job creation/retention | ✓ Skills to Launch program, business incubation |
+| Serve low-income populations | ✓ Volunteer credits, student rates, scholarships |
+| Annual reporting | ✓ Executive Director submits compliance reports |
+| Non-profit ownership | ✓ 501(c)(3) cooperative structure |
+
+**Risk Assessment:**
+- **Winrock sale to private buyer:** High risk of compliance violation (change in use)
+- **Cooperative ownership:** Zero risk of compliance violation (mission-aligned)
+
+  
+
+### **501(c)(3) COMPLIANCE**
+
+**IRS Requirements for Tax-Exempt Status:**
+
+| Requirement | How Cooperative Meets It |
+|------------|-------------------------|
+| Charitable purpose | Education, community development, poverty alleviation |
+| Community benefit | Open membership, sliding scale, scholarships |
+| No private inurement | No individual equity ownership, member-controlled |
+| Primarily charitable activities | Classes, training, community programs |
+| Public support test | Diverse revenue (membership, classes, donations, grants) |
+
+**Advantage:** Cooperative structure enhances 501(c)(3) compliance (broad community ownership vs. self-perpetuating board).
+
+  
+
+## **SECTION 10: WHY THIS MODEL WORKS**
+
+### **COOPERATIVE PRINCIPLES IN ACTION**
+
+**1. VOLUNTARY & OPEN MEMBERSHIP**
+- Anyone can join (sliding scale pricing)
+- No discrimination
+- Low barriers to entry ($25 student to $80 voting member)
+
+**2. DEMOCRATIC MEMBER CONTROL**
+- One member, one vote (voting members)
+- Member-elected board
+- Open committee participation
+
+**3. MEMBER ECONOMIC PARTICIPATION**
+- Members invest capital (capital campaign)
+- Members invest labor (volunteer hours)
+- Members benefit from services (classes, equipment, community)
+
+**4. AUTONOMY & INDEPENDENCE**
+- Member-controlled, not donor-controlled
+- Sustainable earned income base
+- Not dependent on single funder
+
+**5. EDUCATION, TRAINING & INFORMATION**
+- Core mission of the Hub
+- Skill-building through volunteering
+- Transparent financial reporting to members
+
+**6. COOPERATION AMONG COOPERATIVES**
+- Partner with other Arkansas coops
+- Share best practices with maker spaces nationally
+- Support cooperative economy development
+
+**7. CONCERN FOR COMMUNITY**
+- Sliding scale pricing (equity)
+- Volunteer program (participation)
+- Federal compliance (public benefit)
+- Serves entire community, not just wealthy
+
+  
 
 ## **SECTION 11: IMPLEMENTATION TIMELINE**
 
@@ -970,7 +827,7 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 - Transition period
 - Hire Executive Director (member input in process)
 
----
+  
 
 ### **PHASE 2: OPERATIONAL LAUNCH (Months 4-6)**
 
@@ -989,7 +846,7 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 - Launch public membership campaign
 - Grand re-opening event
 
----
+  
 
 ### **PHASE 3: STABILIZATION (Months 6-12)**
 
@@ -1001,7 +858,7 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 - School partnership development
 - First annual member assembly (approve budget, elect board)
 
----
+  
 
 ## **SECTION 12: RISK ANALYSIS**
 
@@ -1018,7 +875,7 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 3. **Volunteer credits** - Members can work for $0 dues
 4. **Corporate partnerships** - Bundle memberships with business sponsorships
 
----
+  
 
 ### **RISK #2: VOLUNTEER PROGRAM DOESN'T SCALE**
 
@@ -1034,7 +891,7 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 4. **Social reward** - Recognition, community, ownership feeling
 5. **Backup plan** - Can hire additional PT front desk if needed ($40K)
 
----
+  
 
 ### **RISK #3: FABRICATION REVENUE UNDERPERFORMS**
 
@@ -1050,11 +907,11 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 4. **Partnership model** - Work with incubators, accelerators for referrals
 5. **Flex strategy** - If low Year 1, increase class revenue to compensate
 
----
+  
 
 ### **RISK #4: GRANT PROGRAMS DON'T MATERIALIZE**
 
-**Risk:** Can't secure $275K in grants
+**Risk:** Can't secure $235K in grants
 
 **Probability:** Low (Skills to Launch, Best Buy already exist)  
 **Impact:** Low (grants are additive, not essential)
@@ -1066,14 +923,14 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 4. **Strong relationships** - Existing connections with funders
 5. **Scale back** - If grants are less, hire fewer grant-funded staff (core unaffected)
 
----
+  
 
 ## **SECTION 13: COMPARISON TO ALTERNATIVES**
 
 ### **COOP vs WINROCK SALE vs TRADITIONAL NONPROFIT**
 
 | **Factor** | **Winrock Sale** | **Traditional Nonprofit** | **COOPERATIVE** |
-|-----------|-----------------|-------------------------|-----------------|
+|------------|------------------|---------------------------|-----------------|
 | **Community Control** | None | Board (limited) | Members (full) |
 | **Financial Model** | N/A | Grant-dependent | Earned income + grants |
 | **Federal Compliance** | Uncertain | Maintained | Guaranteed |
@@ -1085,13 +942,13 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 | **Equity/Access** | Lost | Varies | Built-in (sliding scale) |
 | **Timeline** | Uncertain | 3-4 months | 3-4 months |
 
----
+  
 
 ## **SECTION 14: CONCLUSION**
 
 ### **THIS PLAN IS VIABLE BECAUSE:**
 
-1. **Core operations funded by EARNED INCOME (116%)** - exceeds operating costs
+1. **Core operations funded by EARNED INCOME (81%)** - exceeds operating costs with minimal baseline support
 2. **Cooperative structure** - member-owners ensure sustainability
 3. **Volunteer workforce** - reduces costs, builds community
 4. **Grant programs separate** - additive, not essential
@@ -1101,22 +958,30 @@ TOTAL ACQUISITION FINANCING........................ $1,250,000
 
 ### **FINANCIAL SUMMARY:**
 
-```
-Year 1 Revenue..................................... $1,268,040
-Year 1 Expenses.................................... $1,049,415
-Year 1 Net Income.................................. $  218,625
-
-Core Ops Earned Income............................. $  753,040  (116% of core)
-Total Earned Income................................ $  753,040  (59% of total)
-Grant Dependency................................... VERY LOW (core highly sustainable)
-
-Members............................................ 455+ (Year 1)
-Volunteers......................................... 50-75 active
-Staff (Core)....................................... 6 FTE + revenue share model
-Staff (Grant-funded)............................... 3-4 FTE
-
-Educator Compensation Model........................ Base + 30% class revenue + 20% fab revenue
-```
+| Metric | Amount |
+|--------|--------|
+| Year 1 Revenue | $873,040 |
+| Year 1 Expenses | $872,565 |
+| **Year 1 Net Income** | **$475** |
+| | |
+| Core Ops Earned Income | $517,810 |
+| Core Ops Budget | $637,335 |
+| **Core Self-Funding** | **81%** |
+| Baseline Support Needed | $120,000 |
+| Grant Overhead Contribution | $24,730 |
+| **Net Baseline Support** | **$95,270** |
+| | |
+| Total Earned Income | $517,810 |
+| Total Revenue | $873,040 |
+| **Earned Income %** | **59%** |
+| **Grant Dependency** | **VERY LOW (core highly sustainable)** |
+| | |
+| Members (Year 1) | 435+ |
+| Volunteers | 50-75 active |
+| Staff (Core) | 6 FTE + revenue share model |
+| Staff (Grant-funded) | 3.9 FTE |
+| | |
+| Educator Compensation Model | Base + 30% class revenue + 20% fab revenue |
 
 ### **THE COOPERATIVE DIFFERENCE:**
 
@@ -1136,7 +1001,7 @@ The Hub was built with:
 
 **And in a cooperative, the community DOES own it.**
 
----
+  
 
 ## **APPENDICES**
 
@@ -1174,19 +1039,19 @@ The Hub was built with:
 - Naming opportunities
 - Gift acceptance policies
 
----
+  
 
 **Prepared by:** Community Advisory Committee  
 **Contact:** Scott Shellabarger  
 **Date:** December 30, 2025
 
----
+  
 
 *"Alone we can do so little; together we can do so much." - Helen Keller*
 
 *"The best way to predict the future is to create it... together." - Cooperative Principle*
 
----
+  
 
 ## **WHY COOPERATIVE OWNERSHIP MATTERS**
 
@@ -1194,12 +1059,12 @@ The Innovation Hub was never meant to be owned by a nonprofit from D.C.
 It was built BY the community, FOR the community.
 
 A cooperative structure ensures:
-- ✅ **Members who USE the space CONTROL the space**
-- ✅ **Democratic governance - one member, one vote**
-- ✅ **Financial sustainability through earned income**
-- ✅ **Volunteer labor builds ownership and community**
-- ✅ **Federal compliance guaranteed by member-owners**
-- ✅ **True community ownership - not just rhetoric**
+-   **Members who USE the space CONTROL the space**
+-   **Democratic governance - one member, one vote**
+-   **Financial sustainability through earned income**
+-   **Volunteer labor builds ownership and community**
+-   **Federal compliance guaranteed by member-owners**
+-   **True community ownership - not just rhetoric**
 
 **The Hub belongs to Arkansas. Let's bring it home to its rightful owners: the makers, learners, entrepreneurs, and dreamers who built it.**
 
