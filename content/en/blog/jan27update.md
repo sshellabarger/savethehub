@@ -1,7 +1,7 @@
 ---
 title: "January 27 Update"
 linkTitle: "January 27 Update"
-weight: 100
+date: 2026-01-27
 ---
 
 Dear Hub Community,
